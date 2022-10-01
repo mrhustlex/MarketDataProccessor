@@ -1,5 +1,5 @@
 # MarketDataProccessor
-Java for generating random data using raw excel from Nasdaq
+Java for generating random data using raw excel from Nasdaq and proccess on message change
 
 Assumptions
 All calls to the onMessage method are made by one thread.
